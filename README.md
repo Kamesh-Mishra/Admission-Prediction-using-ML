@@ -2,7 +2,7 @@
 
  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-![image.jpg](attachment:image.jpg)
+![image.jpg](https://github.com/Kamesh-Mishra/Admission-Prediction-using-ML/blob/master/images/image.jpg)
 
 # LIBRARIES USED:
 
@@ -37,11 +37,11 @@ The parameters included are :
 
 Pairplot of Each numerical independent variable with dependent variable:
 
-![pairplot.png](attachment:pairplot.png)
+![pairplot.png](https://github.com/Kamesh-Mishra/Admission-Prediction-using-ML/blob/master/images/pairplot.png)
 
 Heatmap of correlation data of all variables:
 
-![heatmap.png](attachment:heatmap.png)
+![heatmap.png](https://github.com/Kamesh-Mishra/Admission-Prediction-using-ML/blob/master/images/heatmap.png)
 
 #### Training and Testing split:
 
